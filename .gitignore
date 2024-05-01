@@ -1,2 +1,10 @@
 /data/temp_vad_output
 /data/temp_videos
+/data/earnings_data
+/data/temp_earnings
+
+/training/checkpoints
+/training/test_data
+/training/train_data
+/training/val_data
+/training/wandb
